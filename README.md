@@ -1,5 +1,6 @@
 > **Next Kit** 是基于 Go 的 Cloudflare IP 优选与面板管理工具，早期版本以 CFScan 名义发布，部分代码修改自 [CFData-Web](https://github.com/PoemMisty/CFData-WEB)。支持官方地址库抽样、自定义 CIDR 网段全量扫描，以及第三方 IP / 域名与端口测试；将延迟检测、下载测速、链路复验和结果筛选整合到同一界面。同时提供 CFNext 面板的一键部署、凭据管理、订阅生成，优选结果可复制、导出，或追加上报到 CFNext 的「自定义订阅（支持汇聚）」。
->
+> ### [✈️ 四年超稳定老牌机场](https://www.beupisp.com/register?code=5vnEa9vV) [✈️ 超高性价比机场](https://scgdzyy.scl168.club/#/quick?code=yF3gCERW)
+
 > **[✨ CFNext 仓库](https://github.com/PAICNI/CFNext/)**
 > **[✈ Telegram 交流群](https://t.me/SZ_PAI)**
 > **[✈ Telegram 发布频道](https://t.me/PaiCNX)**
